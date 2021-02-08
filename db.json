@@ -1,0 +1,12 @@
+{
+  data: [
+        {
+          id: 2315,
+          title: 'Event 1'
+        },
+        {
+          id: 2316,
+          title: 'Event 2'
+        }
+      ]
+}

@@ -1,11 +1,36 @@
 {
-    "events": [{
+    "data": [
+        {
             "id": 2315,
-            "title": "Event 1"
+            "title": "Event 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse enim lectus, congue viverra fermentum sit amet, rutrum et ligula. Etiam euismod felis mauris, nec porttitor quam dapibus ut. Fusce laoreet lacinia ligula, ac lacinia justo hendrerit sed. Proin aliquam imperdiet tempor. Fusce ullamcorper rutrum leo blandit sagittis. Duis dictum nibh.",
+            "date": "January 28, 2022",
+            "time": "12:00"
+
         },
         {
             "id": 2316,
-            "title": "Event 2"
+            "title": "Event 2",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse enim lectus, congue viverra fermentum sit amet, rutrum et ligula. Etiam euismod felis mauris, nec porttitor quam dapibus ut. Fusce laoreet lacinia ligula, ac lacinia justo hendrerit sed. Proin aliquam imperdiet tempor. Fusce ullamcorper rutrum leo blandit sagittis. Duis dictum nibh.",
+            "date": "January 28, 2022",
+            "time": "12:00"
+
+        },
+        {
+            "id": 2317,
+            "title": "Event 3",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse enim lectus, congue viverra fermentum sit amet, rutrum et ligula. Etiam euismod felis mauris, nec porttitor quam dapibus ut. Fusce laoreet lacinia ligula, ac lacinia justo hendrerit sed. Proin aliquam imperdiet tempor. Fusce ullamcorper rutrum leo blandit sagittis. Duis dictum nibh.",
+            "date": "January 28, 2022",
+            "time": "12:00"
+
+        },
+        {
+            "id": 2318,
+            "title": "Event 4",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse enim lectus, congue viverra fermentum sit amet, rutrum et ligula. Etiam euismod felis mauris, nec porttitor quam dapibus ut. Fusce laoreet lacinia ligula, ac lacinia justo hendrerit sed. Proin aliquam imperdiet tempor. Fusce ullamcorper rutrum leo blandit sagittis. Duis dictum nibh.",
+            "date": "January 28, 2022",
+            "time": "12:00"
+
         }
     ]
 }
